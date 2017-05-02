@@ -1,0 +1,11 @@
+{
+    "min" : {
+        "parts": 3 ,
+        "partLen" : 4
+    },
+    "max" : {
+        "parts": 4 ,
+        "partLen" : 6
+    },
+    "delimiter" : "-" 
+}
